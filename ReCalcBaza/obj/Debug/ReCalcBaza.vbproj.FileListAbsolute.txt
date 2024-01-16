@@ -1,0 +1,24 @@
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\bin\Debug\ReCalcBaza.exe.config
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\bin\Debug\ReCalcBaza.exe
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\bin\Debug\ReCalcBaza.pdb
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\bin\Debug\ReCalcBaza.xml
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.vbprojResolveAssemblyReference.cache
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.Form1.resources
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.Resources.resources
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.vbproj.GenerateResource.cache
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.vbproj.CoreCompileInputs.cache
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.exe
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.xml
+C:\Users\deosi\AppData\Local\Temporary Projects\ReCalcBaza\obj\Debug\ReCalcBaza.pdb
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Debug\ReCalcBaza.exe.config
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Debug\ReCalcBaza.exe
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Debug\ReCalcBaza.pdb
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Debug\ReCalcBaza.xml
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.Form1.resources
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.Resources.resources
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.vbproj.GenerateResource.cache
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.vbproj.CoreCompileInputs.cache
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.exe
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.xml
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.pdb
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Debug\ReCalcBaza.vbproj.AssemblyReference.cache

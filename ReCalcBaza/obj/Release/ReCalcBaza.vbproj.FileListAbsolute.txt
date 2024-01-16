@@ -1,0 +1,12 @@
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Release\ReCalcBaza.exe.config
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Release\ReCalcBaza.exe
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Release\ReCalcBaza.pdb
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\bin\Release\ReCalcBaza.xml
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.Form1.resources
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.Resources.resources
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.vbproj.GenerateResource.cache
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.vbproj.CoreCompileInputs.cache
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.exe
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.xml
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.pdb
+C:\Users\deosi\source\repos\ReCalcBaza\ReCalcBaza\obj\Release\ReCalcBaza.vbprojResolveAssemblyReference.cache

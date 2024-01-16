@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="us-ascii" ?>
+<carlson_xml version="1.0">
+<table>
+<record id="Localization Points" >
+<record id="Point 1" >
+<value name="Lat" value="60.5247275708445"></value>
+<value name="Lon" value="41.6413002597057"></value>
+<value name="Ellipsoid_Elv" value="118.8839"></value>
+<value name="Geoid_Separation" value="0."></value>
+<value name="Local_X" value="1193614.805"></value>
+<value name="Local_Y" value="260376.043"></value>
+<value name="Local_Z" value="128.792"></value>
+<value name="HRMS" value="0.0113137084989848"></value>
+<value name="VRMS" value="0.017"></value>
+<value name="Use_Horizontal" value="Yes"></value>
+<value name="Use_Vertical" value="Yes"></value>
+<value name="Description" value="OGOLIHINO"></value>
+</record>
+<record id="Point 2" >
+<value name="Lat" value="60.5103962691445"></value>
+<value name="Lon" value="41.556745494189"></value>
+<value name="Ellipsoid_Elv" value="136.051"></value>
+<value name="Geoid_Separation" value="0."></value>
+<value name="Local_X" value="1188520.368"></value>
+<value name="Local_Y" value="258853.409"></value>
+<value name="Local_Z" value="145.76"></value>
+<value name="HRMS" value="0.0120415945787923"></value>
+<value name="VRMS" value="0.019"></value>
+<value name="Use_Horizontal" value="Yes"></value>
+<value name="Use_Vertical" value="Yes"></value>
+<value name="Description" value="LAVROVO"></value>
+</record>
+<record id="Point 3" >
+<value name="Lat" value="60.4783068959945"></value>
+<value name="Lon" value="41.5520628494057"></value>
+<value name="Ellipsoid_Elv" value="126.5826"></value>
+<value name="Geoid_Separation" value="0."></value>
+<value name="Local_X" value="1188185.229"></value>
+<value name="Local_Y" value="255284.354"></value>
+<value name="Local_Z" value="136.425"></value>
+<value name="HRMS" value="0.01"></value>
+<value name="VRMS" value="0.02"></value>
+<value name="Use_Horizontal" value="Yes"></value>
+<value name="Use_Vertical" value="Yes"></value>
+<value name="Description" value="IGOLKINO"></value>
+</record>
+<record id="Point 4" >
+<value name="Lat" value="60.4843388600779"></value>
+<value name="Lon" value="41.6358756000724"></value>
+<value name="Ellipsoid_Elv" value="86.7227"></value>
+<value name="Geoid_Separation" value="0."></value>
+<value name="Local_X" value="1193226.731"></value>
+<value name="Local_Y" value="255882.756"></value>
+<value name="Local_Z" value="96.558"></value>
+<value name="HRMS" value="0.0161245154965971"></value>
+<value name="VRMS" value="0.032"></value>
+<value name="Use_Horizontal" value="Yes"></value>
+<value name="Use_Vertical" value="Yes"></value>
+<value name="Description" value="ULANIHA"></value>
+</record>
+<value name="Units" value="WGS84, Decimal Degrees, Metric"></value>
+</record>
+</table>
+</carlson_xml>
